@@ -5,6 +5,6 @@
 
 - 🔭 Je travaille actuellement en tant que développeur ERP chez Clésence
 - 🌱 J'apprends le React et MongoDB
-- 😄 Pronouns: Au courant de toutes les actu esport
-- ⚡ Fun fact: Je suis fortement intéressé par la blockchain et ses nouveautés
+- 😄 Au courant de toutes les actu esport
+- ⚡ Je suis fortement intéressé par la blockchain et ses nouveautés
 
